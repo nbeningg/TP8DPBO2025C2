@@ -3,7 +3,7 @@ Saya Nuansa Bening Aura Jelita dengan NIM 2301410 mengerjakan Tugas Praktikum 8 
 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program 
-Program ini berbasis PHP dengan arsitektur MVC untuk mengelola Kompetisi Pagelaran Sains Data, Inovasi Digital dan TIK (GELATIK). Pengelolaan tersebut beruapa mahasiswa dan tim yang berpartisipasi dalam berbagai kategori lomba yang ada.
+Program ini berbasis PHP dengan arsitektur MVC untuk mengelola Kompetisi Pagelaran Sains Data, Inovasi Digital dan TIK (GELATIK). Pengelolaan tersebut berupa mahasiswa dan tim yang berpartisipasi dalam berbagai kategori lomba yang ada.
 
 ## Desain Database
 
